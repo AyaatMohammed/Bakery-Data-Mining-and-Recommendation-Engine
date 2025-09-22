@@ -91,7 +91,7 @@ To run this project locally, please follow these steps:
     - Create a `data` folder in the project's root directory and place the `Bakery.csv` file inside it.
 
 5.  **Run the notebook:**
-    - Open and run the `notebooks/01_Data_Analysis_and_Modeling.ipynb` notebook in a Jupyter environment (like Jupyter Lab or VS Code).
+    - Open and run the `notebooks/bakery_analysis_and_modeling.ipynb` notebook in a Jupyter environment (like Jupyter Lab or VS Code).
 
 ---
 
