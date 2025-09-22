@@ -73,7 +73,7 @@ To run this project locally, please follow these steps:
     ```bash
     git clone https://github.com/AyaatMohammed/bakery-data-mining-and-recommendation-engine.git
     ```
-    *(Don't forget to replace `YOUR_USERNAME` with your actual GitHub username! )*
+    
 
 2.  **Navigate into the project directory:**
     ```bash
