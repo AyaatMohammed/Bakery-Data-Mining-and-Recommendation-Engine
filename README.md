@@ -101,7 +101,7 @@ To run this project locally, please follow these steps:
 bakery-data-mining-and-recommendation-engine/
 │
 ├── 📂 notebooks/
-│   └── 🔬 01_Data_Analysis_and_Modeling.ipynb
+│   └── 🔬 bakery_analysis_and_modeling.ipynb
 │
 ├── 📂 images/
 │   ├── 📊 pareto_analysis.png
@@ -115,3 +115,9 @@ bakery-data-mining-and-recommendation-engine/
 │
 └── 📜 requirements.txt
 ```
+## 📫. Contact Me
+
+Created by **Ayaat Mohammed**. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ayat-mohammed-b58856361 )
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/AyaatMohammed )
